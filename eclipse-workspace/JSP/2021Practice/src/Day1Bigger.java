@@ -2,6 +2,7 @@ import java.util.*;
 //오름차순 정렬하기
 public class Day1Bigger {
 
+	/*
 	public static void main(String[] args) {
 		
 	Scanner sc = new Scanner(System.in);
@@ -49,6 +50,7 @@ public class Day1Bigger {
 		}
 		System.out.print("결과는...");
 		System.out.println(num1+","+num2+","+num3+","+num4+"입니다.");
-	}
+	} 
+	*/
 
 }
