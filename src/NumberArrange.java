@@ -1,6 +1,6 @@
 
 public class NumberArrange {
-
+/*
 	public static void main(String[] args) {
 
 		int i=0,j=0;
@@ -15,5 +15,5 @@ public class NumberArrange {
 		}
 		
 	}
-
+*/
 }
